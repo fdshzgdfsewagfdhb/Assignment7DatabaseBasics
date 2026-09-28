@@ -1,0 +1,55 @@
+/* [project]/styles/utils.module.css [client] (css) */
+.utils-module__nwfdoa__heading2Xl {
+  letter-spacing: -.05rem;
+  margin: 1rem 0;
+  font-size: 2.5rem;
+  font-weight: 800;
+  line-height: 1.2;
+}
+
+.utils-module__nwfdoa__headingXl {
+  letter-spacing: -.05rem;
+  margin: 1rem 0;
+  font-size: 2rem;
+  font-weight: 800;
+  line-height: 1.3;
+}
+
+.utils-module__nwfdoa__headingLg {
+  margin: 1rem 0;
+  font-size: 1.5rem;
+  line-height: 1.4;
+}
+
+.utils-module__nwfdoa__headingMd {
+  font-size: 1.2rem;
+  line-height: 1.5;
+}
+
+.utils-module__nwfdoa__borderCircle {
+  border-radius: 9999px;
+}
+
+.utils-module__nwfdoa__colorInherit {
+  color: inherit;
+}
+
+.utils-module__nwfdoa__padding1px {
+  padding-top: 1px;
+}
+
+.utils-module__nwfdoa__list {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+.utils-module__nwfdoa__listItem {
+  margin: 0 0 1.25rem;
+}
+
+.utils-module__nwfdoa__lightText {
+  color: #666;
+}
+
+/*# sourceMappingURL=styles_utils_module_css_0uu1l2n._.single.css.map*/
